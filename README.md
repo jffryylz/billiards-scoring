@@ -55,7 +55,11 @@ VALUES (0, 0, '{}', '{}', '{}', '{}', NULL);
 ### 2. Environment Variables
 
 For Vercel deployment, set these environment variables:
+Name: SUPABASE_URL
+Value: https://jwghlubvzolcpfydviaq.supabase.co
 
+Name: SUPABASE_KEY  
+Value: sb_publishable_CLgojMMPUH7DmMtt44iXiw_Kg1QzdqD
 ```
 SUPABASE_URL=https://jwghlubvzolcpfydviaq.supabase.co
 SUPABASE_KEY=sb_publishable_CLgojMMPUH7DmMtt44iXiw_Kg1QzdqD
